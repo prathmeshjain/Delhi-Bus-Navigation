@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\244fe7ec7f607a9360d017a44ddebf043ccad9ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1df105c9a3bc9773a270b2a18ec6e2217c0593d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\244fe7ec7f607a9360d017a44ddebf043ccad9ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\pre-dexed\debug\classes_a1df105c9a3bc9773a270b2a18ec6e2217c0593d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_663270283fa374e7034b14be5a187e68c8881c63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6093ebc694fc7292ed21f8a73f452a51efa63b00">
+        <dex dex="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4d1f5a1ed0b3d3da8101767debd564347be4c885\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_663270283fa374e7034b14be5a187e68c8881c63.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c15fb77c14c6fde5741304254c0f788a095edb81\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\244fe7ec7f607a9360d017a44ddebf043ccad9ba\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_fdadf52072760b46c4242c3dc201317fc561d59c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\244fe7ec7f607a9360d017a44ddebf043ccad9ba\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\user\Desktop\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_fdadf52072760b46c4242c3dc201317fc561d59c\classes.dex" />
+    </item>
+
+</items>

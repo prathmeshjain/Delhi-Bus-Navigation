@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cab_background_bottom.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_bottom.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_transparent.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_exit.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_overflow.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\tab_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_disabled.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_dummy3.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\fragment_main_dummy3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_bottom_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ab_bottom_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_exit.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ic_action_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\tab_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_exit.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_the_village_gallery.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\the_village_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rashtrapati_bhavan.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\rashtrapati_bhavan.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_horizontal.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_greater_kailash_market.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\greater_kailash_market.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\menu_about.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nehru_park.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\nehru_park.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\menu_splash.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cab_done.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\btn_cab_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\menu_route.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\menu\\route.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_secondary.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\progress_secondary.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_stacked_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ab_stacked_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_alert.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_dropdown_panel.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_national_zoological_park.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\national_zoological_park.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pragati_maidan.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\pragati_maidan.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_texture_tile.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ab_texture_tile.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\menu_disclaimer.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\menu\\disclaimer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chandni_chowk.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\chandni_chowk.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_humayun_tomb.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\humayun_tomb.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qutab_minar.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\qutab_minar.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_default.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\progress_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_bottom_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\list_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_transparent.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purana_qila.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\purana_qila.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_raj_ghat.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\raj_ghat.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_texture_tile.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selectable_background.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\selectable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_primary.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\progress_primary.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_overflow.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tibet_house.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\tibet_house.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_dummy2.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\fragment_main_dummy2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_route.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\activity_view_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\list_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_primary.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\progress_primary.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_secondary.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_top.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\cab_background_top.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spee.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\spee.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ansal_plaza.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ansal_plaza.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_secondary.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\progress_secondary.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lodhi_garden.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\lodhi_garden.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_dropdown_panel.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_bg.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\progress_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_top.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_rate.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_disabled.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_parliament_house.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\parliament_house.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_route.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\activity_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_default.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iskcon_temple.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\iskcon_temple.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appu_ghar.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\appu_ghar.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_rate.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rarrow.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\rarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_stacked_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_disabled.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_akshardham_temple.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\akshardham_temple.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_rate.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red_fort.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\red_fort.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\list_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lotus_temple.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\lotus_temple.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cab_background_top.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_top.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_background_ab.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\spinner_background_ab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_dropdown_panel.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\menu_dropdown_panel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_india_gate.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\india_gate.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_bg.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\progress_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_bottom_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ab_bottom_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_default.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pressed_background.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\pressed_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_disclaimer.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_disclaimer.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_alert.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ic_action_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dilli_haat_ina.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\dilli_haat_ina.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_alert.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tutorial.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\activity_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_primary.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\progress_primary.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jantar_mantar.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\jantar_mantar.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_garhi_lalit_kala_artist_studio.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\garhi_lalit_kala_artist_studio.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_disclaimer.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_disclaimer.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gurudwara_bangla_sahib.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\gurudwara_bangla_sahib.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ab_background_textured.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\ab_background_textured.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_dummy1.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\fragment_main_dummy1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_bottom.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\cab_background_bottom.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ab_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_ab.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\tab_indicator_ab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_disclaimer.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\activity_disclaimer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_bottom.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ab_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_tour.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\tour.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_stacked_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_solid.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ab_solid.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_show.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\slide_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indira_gandhi_memorial.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\indira_gandhi_memorial.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_route.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\menu\\view_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_tourism.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_tourism.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_transparent.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\ab_transparent.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jama_masjid.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\jama_masjid.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uarrow.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\uarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\menu_tutorial.xml.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\menu\\tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_default.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_disclaimer.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\ic_action_disclaimer.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_default.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_default.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_art_heritage.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\art_heritage.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_focused.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_speesmall.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-mdpi\\speesmall.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_pressed.9.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_larrow.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable\\larrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rajpath.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\rajpath.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_texture_tile.png.flat",
+        "source": "C:\\Users\\Prathmesh Jain\\Desktop\\urvashi\\BusTracking\\app\\src\\main\\res\\drawable-hdpi\\ab_texture_tile.png"
+    }
+]
